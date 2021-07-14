@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ModelandoRelacions", "ModelandoRelacions\ModelandoRelacions.fsproj", "{E27F02E6-BE81-4AE4-9D27-778308D42C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27F02E6-BE81-4AE4-9D27-778308D42C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27F02E6-BE81-4AE4-9D27-778308D42C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27F02E6-BE81-4AE4-9D27-778308D42C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27F02E6-BE81-4AE4-9D27-778308D42C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F56A72-3962-4E30-81CF-B16BF490842B}
+	EndGlobalSection
+EndGlobal
